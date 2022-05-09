@@ -1,0 +1,22 @@
+#translations-content .translation {
+  color: #32485f;
+  letter-spacing: -.5px;
+  cursor: pointer;
+  box-sizing: border-box;
+  background-color: #eef8ff;
+  border: 1px solid #9bbbcd;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  padding: 5px;
+  font-family: Tahoma, Meiryo, arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  text-decoration: none;
+  transition: border-color .5s;
+  display: inline-block;
+  position: relative;
+}
+
+/*# sourceMappingURL=index.34df27b5.css.map */
